@@ -1,0 +1,22 @@
+{
+  "wheel_id": 476,
+  "structure": "umbrella",
+  "slug": "garagedoorsrepairbrisbane-151",
+  "project": "garage-door-repairs-brisbane-myths-3219ce16029b802d4770c8ebef7f",
+  "parent_t1_ref": "garagedoorsrepairbrisbane-010",
+  "node_role": "buffer",
+  "money_target": "garagedoorsrepairbrisbane.com.au",
+  "primary_kw": "garage door repairs brisbane myths",
+  "intended_url": "https://aumedia.neocities.org/garage-door-repairs-brisbane-myths-3219ce16029b802d4770c8ebef7f/",
+  "tier": "T2",
+  "writeback_nonce": "01e447455a3516c1",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/garage-door-repairs-brisbane-010/",
+      "anchor": "this garage door repairs brisbane resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
